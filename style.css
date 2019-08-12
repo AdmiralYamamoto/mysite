@@ -1,5 +1,7 @@
 body {
   padding: 0 30px;
+  margin-left: 30%;
+  margin-rightt: 30%;
   font-size: 16px;
   line-height: 26px;
   font-family: "Arial", sans-serif;
@@ -91,7 +93,7 @@ i {
   margin-bottom: 30px;
   padding: 20px;
 
-  background-color: rgba(60, 60, 130, 0.2);
+  background-color: rgba(55, 170, 240, 0.2);
   border: 2px solid #2d508f;
   width: 400px;
   border-radius: 1%;
