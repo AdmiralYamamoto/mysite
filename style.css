@@ -1,7 +1,7 @@
 body {
   padding: 0 30px;
-  margin-left: 30%;
-  margin-rightt: 30%;
+  margin-left: 20%;
+  margin-right: 20%;
   font-size: 16px;
   line-height: 26px;
   font-family: "Arial", sans-serif;
@@ -93,7 +93,7 @@ i {
   margin-bottom: 30px;
   padding: 20px;
 
-  background-color: rgba(55, 170, 240, 0.2);
+  background-color: rgba(55, 50, 250, 0.3);
   border: 2px solid #2d508f;
   width: 400px;
   border-radius: 0%;
