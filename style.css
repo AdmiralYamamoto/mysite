@@ -120,13 +120,14 @@ i {
 
 .skills dd {
   margin: 0;
+  width: 10px;
   margin-bottom: 3px;
   margin-right: 80%;
   background-color: #e8e8e8;
 }
 
 .skills-level {
-  font-size: 2px;
+  font-size: 10px;
   text-align: center;
   color: #ffffff;
   background-color: #4470c4;
