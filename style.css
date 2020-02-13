@@ -94,9 +94,9 @@ i {
   padding: 20px;
 
   background-color: rgba(50, 50, 250, 0.7);
-  border: 2px solid #2d508f;
+  border: 2px solid #FA8072;
   width: 400px;
-  border-radius: 0%;
+  border-radius: 1%;
 
   color: #ffffff;
 }
