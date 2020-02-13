@@ -121,12 +121,12 @@ i {
 .skills dd {
   margin: 0;
   margin-bottom: 3px;
-  margin-right: 50%;
+  margin-right: 80%;
   background-color: #e8e8e8;
 }
 
 .skills-level {
-  font-size: 12px;
+  font-size: 2px;
   text-align: center;
   color: #ffffff;
   background-color: #4470c4;
