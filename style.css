@@ -60,7 +60,7 @@ time {
 
 a[href] {
   color: #0099ef;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 del {
@@ -98,7 +98,7 @@ i {
   width: 400px;
   border-radius: 1%;
 
-  color: #ffffff;
+  color: #000;
 }
 
 .blog-navigation h2 {
