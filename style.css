@@ -129,11 +129,13 @@ i {
 .skills-level {
   font-size: 5px;
   text-align: center;
+  height: 10px;
   color: #ffffff;
   background-color: #4470c4;
 }
 
 .skills-level-ok {
+  height: 10px;
   background-color: #47bb52;
 }
 
